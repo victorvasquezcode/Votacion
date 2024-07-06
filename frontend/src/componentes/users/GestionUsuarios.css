@@ -1,0 +1,41 @@
+/* src/components/GestionUsuarios.css */
+.gestion-usuarios {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .gestion-usuarios h1 {
+    color: #333;
+    font-size: 2.5em;
+  }
+  
+  .gestion-usuarios input {
+    padding: 10px;
+    font-size: 1em;
+    margin: 20px 0;
+  }
+  
+  .gestion-usuarios button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .gestion-usuarios button:hover {
+    background-color: #218838;
+  }
+  
+  .gestion-usuarios ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .gestion-usuarios li {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
